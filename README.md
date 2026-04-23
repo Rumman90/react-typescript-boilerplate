@@ -15,15 +15,16 @@ A clean and scalable React BoilerPlate project built with Vite and TypeScript.
 
 ## Project Structure
 
+```bash
 src/
-  components/
-  pages/
-  layouts/
-  routes/
-  services/
-  hooks/
-  types/
-  constants/
+├── components/
+├── pages/
+├── layouts/
+├── routes/
+├── services/
+├── hooks/
+├── types/
+├── constants/
 
 ## Run Locally
 
